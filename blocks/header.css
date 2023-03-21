@@ -66,3 +66,6 @@
   line-height: 72px;
   color: #2f80ed;
 }
+.header__paragraph {
+  margin: 0, 0, 0, 0;
+}

@@ -22,3 +22,7 @@
   text-decoration: none;
   font-weight: 500;
 }
+.nav__link:hover {
+  color: #2f80ed;
+  transition: color 0.2s ease-in-out;
+}

@@ -25,7 +25,7 @@
   font-size: 16px;
   line-height: 20px;
   margin: 0;
-  margin-bottom:auto;
+  margin-bottom:20px;
 }
 
 .footer__list {
@@ -76,4 +76,5 @@
   line-height: 20px;
   margin-top: 108px;
   margin-left: 80px;
+  margin-bottom: 0;
 }
