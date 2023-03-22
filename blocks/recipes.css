@@ -12,7 +12,7 @@
 .recipes__title {
   max-width: 580px;
   margin: 100px 0 24px 80px;
-  font-family: "Inter", "Arial", "san-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -21,7 +21,7 @@
 }
 
 .recipes__subtitle {
-  font-family: "Noto Serif", "Arial", "san-serif";
+  font-family: "Noto Serif", "Arial", "sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -53,7 +53,7 @@
 }
 .recipes__video-caption {
   color: #ffffff;
-  font-family: "Inter", "Arial", "san-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 20px;

@@ -16,7 +16,7 @@
 }
 
 .header__title {
-  font-family: "Inter", "Arial", "san-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 60px;
@@ -27,7 +27,7 @@
 
 
 .header__description {
-  font-family: "Noto Serif", "Arial", "san-serif";
+  font-family: "Noto Serif", "Arial", "sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -46,7 +46,7 @@
 }
 
 .header__footer {
-  font-family: "Inter", "Arial", "san-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -59,7 +59,7 @@
 }
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", "Arial", "san-serif";
+  font-family: "Noto Serif", "Arial", "sans-serif";
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
